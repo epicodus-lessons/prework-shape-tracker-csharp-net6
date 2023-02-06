@@ -1,6 +1,6 @@
 namespace ShapeTracker.Models 
 {
-  class Triangle 
+  public class Triangle 
   {
     public int Side1;
     public int Side2;
